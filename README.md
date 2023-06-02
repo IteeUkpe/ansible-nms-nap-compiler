@@ -1,4 +1,4 @@
-Role Name
+Ansible NGINX NMS-App-Protect Compiler
 =========
 
 This ansible role helps in installing Nginx App Protect Compiler on NGINX Instance Manager. 
