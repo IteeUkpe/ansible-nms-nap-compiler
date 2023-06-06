@@ -51,6 +51,7 @@ A list of other roles hosted on Galaxy should go here, plus any details in regar
 
 Example Playbook
 ----------------
+playbook.yml
 ```
 ---
 - name: Install NGINX 
@@ -59,6 +60,10 @@ Example Playbook
   ignore_errors: true
   roles:
     - nms-nap-compiler
+```
+To run the playbook:
+```
+ansible-playbook playbook.yml --become
 ```
 
 Author Information
