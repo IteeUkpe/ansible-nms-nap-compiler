@@ -1,6 +1,7 @@
 Ansible NGINX NMS-App-Protect Compiler Role
 =========
 This ansible role helps in installing a Configuration Management for App Protect Compiler which is a feature in NGINX Instance Manager Module. With Configuration Management for App Protect WAF, you can configure WAF security policies in a single location and push your configurations out to one, some, or all of your NGINX App Protect WAF instances. 
+
 Requirements
 ------------
 1. NGINX Management Suite License 
